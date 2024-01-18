@@ -13,6 +13,7 @@ HOW TO OPEN THIS PROJECT IN UNITY EDITOR:
 
 ![image](https://github.com/chandratritaqwa/Byte-Buddies/assets/156360296/552c3d38-072d-4182-85a1-e26d1bf69474)
 2. Click **Add** and choose the project folder
+
 3. Enjoy the project!
 
 HOW TO INSTALL THE APK:
@@ -20,5 +21,7 @@ HOW TO INSTALL THE APK:
 
 ![image](https://github.com/chandratritaqwa/Byte-Buddies/assets/156360296/3338207a-e090-4df4-b0d3-2ac61a3286ad)
 2. Click the **Download** button.
+
 3. Install the .apk in your android smartphone
+
 4. Enjoy!
